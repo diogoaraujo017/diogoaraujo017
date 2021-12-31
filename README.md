@@ -1,6 +1,11 @@
+<h1 align="center"> Hi, I'm Diogo Araújo!! </h1>
 
-  
-  
+-- **I'm currently studying Cumputer Science at University of Minho !**
+
+-- **My first project as a Cumputer Science student was to make a game like "Block Dude" , using Haskell !**
+
+<hr style="height:30pt; visibility:hidden;" />
+
 <div align="center">
   <a href="https://github.com/diogoaraujo017">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoaraujo017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

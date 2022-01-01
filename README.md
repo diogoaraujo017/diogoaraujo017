@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm Diogo Araújo!! </h1>
 
-**I'm currently studying Computer Science at University of Minho !**
+**I'm currently studying Software Engineering at University of Minho !**
 
-**My first project as a Computer Science student was to make a game like "Block Dude" , using Haskell !**
+**My first project as a Software Engineering student was to make a game like "Block Dude" , using Haskell !**
 
 <hr style="height:30pt; visibility:hidden;" />
 

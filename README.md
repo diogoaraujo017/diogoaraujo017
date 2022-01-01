@@ -2,7 +2,7 @@
 
 **I'm currently studying Cumputer Science at University of Minho !**
 
-**My first project as a Cumputer Science student was to make a game like "Block Dude" , using Haskell !**
+**My first project as a Software Engineering student was to make a game like "Block Dude" , using Haskell !**
 
 <hr style="height:30pt; visibility:hidden;" />
 

@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm Diogo Araújo!! </h1>
 
--- **I'm currently studying Cumputer Science at University of Minho !**
+**I'm currently studying Cumputer Science at University of Minho !**
 
--- **My first project as a Cumputer Science student was to make a game like "Block Dude" , using Haskell !**
+**My first project as a Cumputer Science student was to make a game like "Block Dude" , using Haskell !**
 
 <hr style="height:30pt; visibility:hidden;" />
 
@@ -16,10 +16,10 @@
   
 ### 🖥️ Languages 
   
-**Using**
+**/Using**
 <img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 
-**Lerning**
+**/Lerning**
 <img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
   
 <hr style="height:30pt; visibility:hidden;" />

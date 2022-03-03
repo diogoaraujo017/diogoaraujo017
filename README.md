@@ -16,10 +16,10 @@
   
 ### 🖥️ Languages 
   
-**/Using**
+**Learned**
 <img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 
-**/Learning**
+**Learning**
 <img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
 <hr style="height:30pt; visibility:hidden;" />

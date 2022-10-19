@@ -9,19 +9,17 @@
 <div>
   <a href="https://github.com/diogoaraujo017">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoaraujo017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoaraujo017&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
+  
 <hr style="height:30pt; visibility:hidden;" />
   
 ### 🖥️ Languages 
   
 **Learned**
 <img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+<img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 **Learning**
-<img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  
+
 <hr style="height:30pt; visibility:hidden;" />
  
 <div> 

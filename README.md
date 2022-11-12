@@ -2,7 +2,7 @@
 
 **I'm currently studying Software Engineering at University of Minho !**
 
-**My first project as a Software Engineering student was to make a game like "Block Dude" , using Haskell !**
+**The first project that I made as a Software Engineering student was a game similar to "Block Dude" , using the programming language Haskell !**
 
 <hr style="height:30pt; visibility:hidden;" />
 

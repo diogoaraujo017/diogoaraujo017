@@ -6,19 +6,28 @@
 
 <hr style="height:30pt; visibility:hidden;" />
 
-<div>
-  <a href="https://github.com/diogoaraujo017">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoaraujo017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div align="center" display="flex" style="color:red;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlcrodrigues&count_private=true&theme=ayu-mirage&show_icons=true"
+    height="160rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcrodrigues&layout=compact&theme=ayu-mirage"
+    height="160rem"/>
+</div>
   
 <hr style="height:30pt; visibility:hidden;" />
   
-### 🖥️ Languages 
-  
-**Learned**
-<img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-<img align="center" alt="Diogo-haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
-**Learning**
+<div align="center">
+  <h4>Programming</h4>
+  <div display="flex">
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
+  </div>
+  <h4>Misc</h4>
+  <div display="flex">
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode">
+  </div>
+</div>
 
 <hr style="height:30pt; visibility:hidden;" />
  

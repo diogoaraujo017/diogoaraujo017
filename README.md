@@ -1,4 +1,6 @@
-<h1 align="center"> Hi, I'm Diogo Araújo!! </h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diogoaraujo017/diogoaraujo017/master/final.gif">
+</div>
 
 **I'm currently studying Software Engineering at University of Minho !**
 

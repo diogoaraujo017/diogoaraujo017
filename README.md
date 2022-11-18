@@ -16,12 +16,12 @@
 <hr style="height:30pt; visibility:hidden;" />
   
 <div align="center">
-  <h4>Programming</h4>
+  <h3>LANGUAGES</h3>
   <div display="flex">
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
    <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
   </div>
-  <h4>Misc</h4>
+  <h3>SOFTWARE</h3>
   <div display="flex">
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">

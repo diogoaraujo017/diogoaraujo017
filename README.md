@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=diogoaraujo017&count_private=true&theme=ayu-mirage&show_icons=true"
     height="160rem"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoaraujo017&layout=compact&theme=ayu-mirage"
-    height="160rem"/>
+    height="140rem"/>
 </div>
   
 <hr style="height:30pt; visibility:hidden;" />
@@ -27,11 +27,12 @@
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode">
   </div>
-</div>
-
-<div align="center"> 
-  <a href="https://instagram.com/diogoaraujo017" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/322769952870367235" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <h3>CONTACTS</h3>
+  <div display="flex"> 
+  <a href="https://instagram.com/diogoaraujo017" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&     logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/322769952870367235" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    </div>
+  </div>
 
 <hr style="height:30pt; visibility:hidden;" />  
 

@@ -15,9 +15,9 @@
 
 <div align="center" display="flex" style="color:red;">
   <img src="https://github-readme-stats.vercel.app/api?username=diogoaraujo017&count_private=true&theme=ayu-mirage&show_icons=true"
-    height="160rem"/>
+    height="200rem"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoaraujo017&layout=compact&theme=ayu-mirage"
-    height="160rem"/>
+    height="200rem"/>
 </div>
   
 <hr style="height:30pt; visibility:hidden;" />

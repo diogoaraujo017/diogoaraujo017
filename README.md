@@ -39,7 +39,10 @@
   </div>
   <h3>CONTACTS</h3>
   <div display="flex"> 
-  <a href="https://instagram.com/diogoaraujo017" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&     logo=instagram&logoColor=white" target="_blank"></a>
+  </a>
+  <a href="mailto:daraujo01777@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website Badge"/>
+  </a>
   <a href="https://discordapp.com/users/322769952870367235" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     </div>
   </div>

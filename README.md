@@ -14,9 +14,9 @@
 <hr style="height:30pt; visibility:hidden;" />
 
 <div align="center" display="flex" style="color:red;">
-  <img src="https://github-readme-stats.vercel.app/api?username=diogoaraujo017&count_private=true&theme=ayu-mirage&show_icons=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=diogoaraujo017&count_private=true&theme=midnight-purple&show_icons=true"
     height="180rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoaraujo017&layout=compact&theme=ayu-mirage"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoaraujo017&layout=compact&theme=midnight-purple"
     height="180rem"/>
 </div>
   

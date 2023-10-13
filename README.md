@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/diogoaraujo017/diogoaraujo017/master/final.gif">
 </div>
 
-<hr style="height:30pt; visibility:hidden;" />
+<hr style="height:30 pt; visibility:hidden;" />
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 **The first project that I made as a Software Engineering student was a game similar to "Block Dude" , using the programming language Haskell !**
 <div>
   
-<hr style="height:30pt; visibility:hidden;" />
+<hr style="height:30 pt; visibility:hidden;" />
 
 <div align="center" display="flex" style="color:red;">
   <img src="https://github-readme-stats.vercel.app/api?username=diogoaraujo017&count_private=true&theme=midnight-purple&show_icons=true"
@@ -20,7 +20,7 @@
     height="180rem"/>
 </div>
   
-<hr style="height:30pt; visibility:hidden;" />
+<hr style="height:30 pt; visibility:hidden;" />
   
 <div align="center">
   <h3>LANGUAGES</h3>
@@ -51,6 +51,6 @@
 
 <hr style="height:30 pt; visibility:hidden;" />  
 
-  ![Snake animation](https://github.com/diogoaraujo017/diogoaraujo017/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/diogoaraujo017/diogoaraujo017/blob/output/github-contribution-grid-snake2.svg)
  
 </div>

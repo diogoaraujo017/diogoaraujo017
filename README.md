@@ -49,7 +49,7 @@
     </div>
   </div>
 
-<hr style="height:30pt; visibility:hidden;" />  
+<hr style="height:30 pt; visibility:hidden;" />  
 
   ![Snake animation](https://github.com/diogoaraujo017/diogoaraujo017/blob/output/github-contribution-grid-snake.svg)
  

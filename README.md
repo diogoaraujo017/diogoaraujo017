@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/diogoaraujo017/diogoaraujo017/master/final.gif">
+  <img src="https://raw.githubusercontent.com/diogoaraujo017/diogoaraujo017/master/cover.gif">
 </div>
 
 <hr style="height:30 pt; visibility:hidden;" />

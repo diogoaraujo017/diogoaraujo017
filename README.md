@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**I'm currently studying Software Engineering at University of Minho !**
+**Bachelor's Degree in Software Engineering at University of Minho !**
 
 **The first project that I made as a Software Engineering student was a game similar to "Block Dude" , using the programming language Haskell !**
 <div>
